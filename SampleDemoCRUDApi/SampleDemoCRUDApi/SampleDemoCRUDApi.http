@@ -1,0 +1,6 @@
+@SampleDemoCRUDApi_HostAddress = https://localhost:7178
+
+GET {{SampleDemoCRUDApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
